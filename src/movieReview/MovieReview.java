@@ -1,4 +1,6 @@
-package PACKAGE_NAME;
+package movieReview;
 
 public class MovieReview {
+    String title;
+    String review;
 }
